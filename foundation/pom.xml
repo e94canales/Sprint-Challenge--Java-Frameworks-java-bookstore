@@ -112,7 +112,7 @@
     </dependencies>
 
     <build>
-        <finalName>jrmmba-foundation</finalName>
+        <finalName>e94-foundation</finalName>
 
         <plugins>
             <plugin>
